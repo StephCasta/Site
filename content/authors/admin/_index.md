@@ -53,9 +53,7 @@ education:
     institution: Université de Rennes
     date_start: 2024-10-01
     date_end: ''
-    summary: |
-    Recherche et optimisation d'algorithmes sur les isogénies supersingulières et applications à la cryptographie post-quantique.
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: | Recherche et optimisation d'algorithmes sur les isogénies supersingulières et applications à la cryptographie post-quantique.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
