@@ -52,7 +52,7 @@ education:
   - area: Thèse en cours
     institution: Université de Rennes
     date_start: 2024-10-01
-    date_end: ''
+    date_end: 2027-10-01
     summary: | Recherche et optimisation d'algorithmes sur les isogénies supersingulières et applications à la cryptographie post-quantique.
     button:
       text: 'Read Thesis'
